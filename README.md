@@ -1,75 +1,67 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hashim</h1>
-<h3 align="center">MERN Stack Developer | Passionate about building web applications</h3>
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=220&section=header&text=Muhammad%20Hashim&fontSize=45&fontColor=ffffff&fontAlignY=40" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+Expert;Node.js+%7C+Express.js+%7C+MongoDB;Firebase+%7C+JWT+%7C+REST+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+JavaScript+Engineer;Node.js+%7C+Express+%7C+MongoDB+%7C+React;Clean+Code+%7C+Fast+Delivery+%7C+Secure+Apps" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🌐 I’m a **MERN Stack Web Developer** passionate about building dynamic and scalable web apps.
-- 🔭 Currently working on **secure and scalable applications using JWT, Firebase, and MongoDB**.
-- 🌱 Learning advanced patterns in **React, Express.js, and Firebase security**.
-- 💡 Focused on **backend APIs**, **auth systems**, and **cloud-hosted databases**.
-- 📫 Reach me at: **[your_email@example.com]**
-- 🌍 Portfolio: **[your-portfolio-link.com]**
-
----
-
-### 🚀 Tech Stack
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-
-**Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-
-**DevOps & Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-
-### 📈 GitHub Stats
-
+<!-- TECH STACK -->
+<h3 align="center">🧠 Tech Stack</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHashim2&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHashim2&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadHashim2&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,jwt,git,github,postman,vscode" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-- 🔐 [**JWT Auth App**](https://github.com/MuhammadHashim2/jwt-auth-app) – Secure login/register app using JWT, MongoDB, Node, Express  
-- 📦 [**CRUD API**](https://github.com/MuhammadHashim2/crud-operation) – RESTful API for user management using Express and MongoDB  
-- 🔍 [**QR Code Scanner**](https://github.com/MuhammadHashim2/QR-Code-Scanner) – HTML, CSS, JS-based QR code scanner using camera input  
-- 📡 [**Firebase Auth Demo**](https://github.com/MuhammadHashim2/firebase-auth) – User login/signup using Firebase with protected routes
-
----
-
-### 🌱 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/MuhammadHashim2)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+<!-- STATS -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHashim2&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHashim2&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-*Thanks for visiting my profile! Feel free to check out my repositories and connect for collaborations!*
+<!-- PROJECTS -->
+<h3 align="center">🚀 Projects</h3>
+<p align="center">
+  <a href="https://github.com/MuhammadHashim2/jwt-auth-app">
+    <img src="https://img.shields.io/badge/JWT%20Auth-Node.js%20%7C%20MongoDB%20%7C%20Express-00c6ff?style=for-the-badge&logo=jwt&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuhammadHashim2/crud-operation">
+    <img src="https://img.shields.io/badge/CRUD%20API-RESTful%20API%20%7C%20MongoDB-0072ff?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuhammadHashim2/QR-Code-Scanner">
+    <img src="https://img.shields.io/badge/QR%20Scanner-HTML%20%7C%20JS%20%7C%20MediaAPI-1f4068?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  </a>
+</p>
 
+---
+
+<!-- CONTACT -->
+<h3 align="center">📬 Let’s Connect</h3>
+<p align="center">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuhammadHashim2">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff,00c6ff&height=120&section=footer"/>
+</p>

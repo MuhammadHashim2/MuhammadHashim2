@@ -1,7 +1,8 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=220&section=header&text=Muhammad%20Hashim&fontSize=45&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,00c9ff&height=230&section=header&text=Muhammad%20Hashim&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full-Stack%20MERN%20Developer&descAlign=50&descAlignY=65&descSize=20" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+JavaScript+Engineer;Node.js+%7C+Express+%7C+MongoDB+%7C+React;Clean+Code+%7C+Fast+Delivery+%7C+Secure+Apps" />

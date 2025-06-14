@@ -12,9 +12,28 @@
 
 ## 🧠 About Me
 
-```yaml
-Name: Muhammad Hashim
-Stack: MERN (MongoDB, Express, React, Node)
-Focus: Secure, Fast, Responsive Web Applications
-Tools: Firebase, JWT, REST APIs, Git, Vercel
-Mindset: Minimalist UI • Clean Architecture • Scalable Code
+I’m a passionate **Full-Stack Web Developer** specializing in the **MERN Stack** — MongoDB, Express.js, React, and Node.js. With a strong foundation in both frontend and backend technologies, I focus on creating **scalable**, **secure**, and **user-friendly** web applications.
+
+I have hands-on experience working with:
+
+- **Firebase** for authentication and real-time databases  
+- **JWT** for secure token-based auth systems  
+- **REST APIs** for building dynamic backend services  
+- Deployment on **Render**, **Vercel**, and **Netlify**
+
+I believe in writing **clean code**, following **best practices**, and building products that solve real-world problems. Always eager to learn, collaborate, and contribute to meaningful tech projects.
+
+---
+
+## 🚀 Tech I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,jwt,git,github,vscode" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=302b63,00c9ff&height=120&section=footer"/>
+</p>

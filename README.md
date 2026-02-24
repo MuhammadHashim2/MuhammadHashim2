@@ -1,30 +1,71 @@
-<!-- TOP BANNER -->
+<!-- ========================= PREMIUM HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,00c9ff&height=230&section=header&text=Muhammad%20Hashim&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full-Stack%20MERN%20Developer&descAlign=50&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19,0F1624,1B2A41&height=250&section=header&text=Muhammad%20Hashim&fontSize=50&fontColor=E6EDF3&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20Architect%20%7C%20System%20Thinker&descAlign=50&descAlignY=65&descSize=20" />
 </p>
 
-<!-- TYPING INTRO -->
+<!-- ========================= LUXURY INTRO ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+high-performance+web+apps.;Expert+in+MERN+Stack+%7C+Clean+Code+%7C+Secure+Systems.;Building+modern,+scalable+and+efficient+solutions." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Engineering+Scalable+Digital+Infrastructure.;Designing+Clean+Architectures+for+Real-World+Impact.;Performance.+Security.+Precision." />
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 Engineering Philosophy
 
-I'm a results-driven **Full-Stack Web Developer** with a strong command of the **MERN Stack** — MongoDB, Express.js, React, and Node.js. I build robust, secure, and scalable web applications that offer seamless user experiences.
+I don't just build websites.  
+I architect **digital systems** that are scalable, secure, and built for long-term performance.
 
-With hands-on experience in **Firebase**, **JWT Authentication**, **RESTful APIs**, and modern deployment platforms, I focus on writing clean, maintainable code and delivering real-world solutions.
+As a **MERN Stack Engineer**, I specialize in transforming complex ideas into production-grade applications with:
+
+• Modular & Clean Architecture  
+• Secure Authentication (JWT / Firebase)  
+• RESTful & Scalable API Systems  
+• Optimized Frontend Performance  
+• Cloud-Ready Deployment  
+
+My approach combines **engineering discipline**, performance optimization, and business-focused problem solving.
 
 ---
 
-## 🚀 Tech I Use
+# ⚡ Core Stack & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,jwt,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,firebase,git,github,vscode,docker&theme=dark" />
 </p>
 
-<!-- FOOTER -->
+---
+
+# 🏗️ What Sets Me Apart
+
+✔ System-Level Thinking  
+✔ Scalable Backend Architecture  
+✔ Secure & Token-Based Auth Systems  
+✔ Clean UI Engineering  
+✔ Performance & Load Optimization  
+✔ Production Deployment Expertise  
+
+---
+
+# 📊 Engineering Metrics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=302b63,00c9ff&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0F19&title_color=3B82F6&icon_color=3B82F6&text_color=E6EDF3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0B0F19&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3" />
+</p>
+
+---
+
+# 🚀 Vision
+
+To evolve from a full-stack engineer into a **Technology Leader** —  
+building scalable platforms, high-performance systems, and impactful digital infrastructure.
+
+---
+
+<!-- ========================= PREMIUM FOOTER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19,0F1624,1B2A41&height=120&section=footer"/>
 </p>

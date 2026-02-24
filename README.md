@@ -1,71 +1,86 @@
-<!-- ========================= PREMIUM HEADER ========================= -->
+<!-- ======================== FUTURE TECH HEADER ======================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19,0F1624,1B2A41&height=250&section=header&text=Muhammad%20Hashim&fontSize=50&fontColor=E6EDF3&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20Architect%20%7C%20System%20Thinker&descAlign=50&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=260&section=header&text=Muhammad%20Hashim&fontSize=52&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20Engineer%20%7C%20Full-Stack%20Systems%20Architect%20%7C%20Future%20Tech%20Leader&descAlignY=65&descSize=20" />
 </p>
 
-<!-- ========================= LUXURY INTRO ========================= -->
+<!-- ======================== DIGITAL ENERGY LINE ======================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Engineering+Scalable+Digital+Infrastructure.;Designing+Clean+Architectures+for+Real-World+Impact.;Performance.+Security.+Precision." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Designing+Digital+Infrastructure+Like+Electronic+Circuits.;Engineering+Scalable+Systems+With+Precision.;Performance+Driven.+Security+Focused.+Innovation+Oriented." />
+</p>
+
+<!-- ======================== TECH DIVIDER ======================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=141E30,243B55&height=3"/>
+</p>
+
+# ⚡ Engineering Identity
+
+I operate at the intersection of **Electronics Engineering** and **Full-Stack Software Architecture**.
+
+Just as electronic circuits demand precision, efficiency, and optimization —  
+I design digital systems with the same engineering discipline.
+
+🧠 **System-Level Thinking**  
+⚙️ Hardware-Inspired Software Architecture  
+🔐 Secure & Scalable Backend Engineering  
+📡 Real-Time & API-Driven Infrastructure  
+🚀 Production-Ready Deployments  
+
+I don’t just build applications.  
+I engineer **high-performance digital ecosystems.**
+
+---
+
+# 🔬 Core Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,firebase,cpp,arduino,git,github,docker,vscode&theme=dark" />
 </p>
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🧠 Systems Architecture Philosophy
 
-I don't just build websites.  
-I architect **digital systems** that are scalable, secure, and built for long-term performance.
-
-As a **MERN Stack Engineer**, I specialize in transforming complex ideas into production-grade applications with:
-
-• Modular & Clean Architecture  
-• Secure Authentication (JWT / Firebase)  
-• RESTful & Scalable API Systems  
-• Optimized Frontend Performance  
-• Cloud-Ready Deployment  
-
-My approach combines **engineering discipline**, performance optimization, and business-focused problem solving.
-
----
-
-# ⚡ Core Stack & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,firebase,git,github,vscode,docker&theme=dark" />
-</p>
-
----
-
-# 🏗️ What Sets Me Apart
-
-✔ System-Level Thinking  
-✔ Scalable Backend Architecture  
-✔ Secure & Token-Based Auth Systems  
+✔ Modular Backend Design  
+✔ JWT & Secure Auth Infrastructure  
+✔ RESTful & Scalable APIs  
 ✔ Clean UI Engineering  
-✔ Performance & Load Optimization  
-✔ Production Deployment Expertise  
+✔ Performance Optimization  
+✔ Deployment & Cloud Readiness  
+
+Inspired by embedded systems thinking —  
+where every component has purpose, efficiency, and structure.
 
 ---
 
-# 📊 Engineering Metrics
+# 📊 Engineering Activity Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0F19&title_color=3B82F6&icon_color=3B82F6&text_color=E6EDF3" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0B0F19&ring=3B82F6&fire=3B82F6&currStreakLabel=E6EDF3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F2027&title_color=00F5FF&icon_color=00F5FF&text_color=E6EDF3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true&background=0F2027&ring=00F5FF&fire=00F5FF&currStreakLabel=E6EDF3" />
 </p>
 
 ---
 
-# 🚀 Vision
+# 🌌 Future Trajectory
 
-To evolve from a full-stack engineer into a **Technology Leader** —  
-building scalable platforms, high-performance systems, and impactful digital infrastructure.
+🎓 Electronics Engineering @ NED University  
+🧠 Advancing into Systems, Automation & Intelligent Infrastructure  
+🏗️ Vision: Director-Level Technology Leadership  
+
+My long-term focus:  
+Building scalable industrial systems, energy-tech platforms, and secure digital infrastructure.
 
 ---
 
-<!-- ========================= PREMIUM FOOTER ========================= -->
+<!-- ======================== CYBER FOOTER ======================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19,0F1624,1B2A41&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C5364,203A43,0F2027&height=140&section=footer"/>
 </p>
